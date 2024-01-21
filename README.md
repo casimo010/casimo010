@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Abdirahman Mohamed
-- 👀 I’m interested in Backend development
-- 🌱 I’m currently learning Nodejs beside that Django also!
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ 👋 Hi, I’m Abdirahman Mohamed
+ 👀 I’m interested in Golang
+ 🌱 I’m currently learning React and Nodejs
+ 🐦 You can follow me on linkedin
+
 
 <!---
 casimo010/casimo010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
