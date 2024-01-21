@@ -1,7 +1,7 @@
- 👋 Hi, I’m Abdirahman Mohamed
- 👀 I’m interested in Golang
- 🌱 I’m currently learning React and Nodejs
- 🐦 You can follow me on linkedin
+ - 👋 Hi, I’m Abdirahman Mohamed
+ - 👀 I’m interested in Golang
+ - 🌱 I’m currently learning React and Nodejs
+ - 🐦 You can follow me on linkedin
 
 
 <!---
